@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">Veil Access</string>
+    <string name="action_settings">Settings</string>
+    <string name="top_text">latest update to the Veil Care app? Check the app store for more details! - Have you seen our updated Facebook page? Tap here to take a look! We are currently at 261.643 members and the community</string>
+    <string name="your_connection">Your Connection</string>
+    <string name="connected">Connected</string>
+    <string name="veiled">Veiled</string>
+    <string name="you">You</string>
+    <string name="veil_access">Veil Access</string>
+    <string name="coffeshop_wifi">CoffeeshopWiFi</string>
+    <string name="veil_tower">Veil Tower</string>
+    <string name="internet">Internet</string>
+    <string name="connection_quality">Connection quality: </string>
+    <string name="not_very_good">Not very good</string>
+    <string name="weak_signal">weak signal</string>
+    <string name="activities_title">What can you do with this connection</string>
+    <string name="activities_description">We\'ve created a list of popular activities and highlighted those that suit your current connection.</string>
+    <string name="web_browsing">Web browsing</string>
+    <string name="email">E-mail</string>
+    <string name="online_banking">Online banking</string>
+    <string name="messaging">Messaging</string>
+    <string name="internet_voice_calls">Internet voice calls</string>
+    <string name="internet_video_calls">Internet video calls</string>
+    <string name="navigation">Navigation</string>
+    <string name="photo_sharing">Photo sharing</string>
+    <string name="streaming_music">Streaming music</string>
+    <string name="streaming_hd_video">Streaming HD video</string>
+    <string name="online_shopping">Online shopping</string>
+    <string name="social_networking">Social networking</string>
+    <string name="news">News</string>
+    <string name="downloading_uploading">Downloading / Uploading</string>
+    <string name="feeling_lucky">I\'m feeling lucky</string>
+    <string name="security_offline_warning">Warning: security will be offline</string>
+    <string name="minutes">minutes</string>
+    <string name="deactivate_rook">Deactivate Rook</string>
+
+</resources>
